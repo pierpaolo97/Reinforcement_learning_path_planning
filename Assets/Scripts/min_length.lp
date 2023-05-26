@@ -1,0 +1,9 @@
+min_length(0,78611).
+min_length(1,67940).
+min_length(2,76607).
+min_length(3,67939).
+min_length(4,76314).
+min_length(5,72724).
+min_length(6,72856).
+min_length(7,67324).
+min_length(8,72631).

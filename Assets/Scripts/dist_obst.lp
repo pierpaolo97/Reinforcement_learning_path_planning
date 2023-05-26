@@ -1,0 +1,9 @@
+dist_obst(0,1615).
+dist_obst(1,1590).
+dist_obst(2,1696).
+dist_obst(3,1586).
+dist_obst(4,1658).
+dist_obst(5,1622).
+dist_obst(6,1627).
+dist_obst(7,1620).
+dist_obst(8,1630).
